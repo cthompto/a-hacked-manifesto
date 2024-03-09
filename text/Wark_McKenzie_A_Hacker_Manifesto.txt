@@ -84,594 +84,334 @@ M A N I F E S T O
 
 A B S T R A C T I O N
 
-A double spooks the world, the double of abstraction. The
-
 [001]
-
-fortunes of states and armies, companies and communities
-depend on it. All contending classes, be they ruling or ruled,
-revere it—yet fear it. Ours is a world that ventures blindly
-into the new with its fingers crossed.
-
-All classes fear this relentless abstraction of the world, on
+A double spooks the world, the double of abstraction. 
+The fortunes of states and armies, companies and communities
+depend on it. 
+All contending classes, be they ruling or ruled, revere it—yet fear it.
+Ours is a world that ventures blindly into the new with its fingers crossed.
 
 [002]
-
-which their fortunes yet depend. All classes but one: the
-hacker class. We are the hackers of abstraction. We produce
-new concepts, new perceptions, new sensations, hacked out
-of raw data. Whatever code we hack, be it programming
-language, poetic language, math or music, curves or colorings, we are the abstracters of new worlds. Whether we
-come to represent ourselves as researchers or authors, artists or biologists, chemists or musicians, philosophers or
-programmers, each of these subjectivities is but a fragment
-of a class still becoming, bit by bit, aware of itself as such.
-
-And yet we don’t quite know who we are. That is why this
-book seeks to make manifest our origins, our purpose and
-our interests. A hacker manifesto: Not the only manifesto, as
-it is in the nature of the hacker to differ from others, to differ even from oneself, over time. To hack is to differ. A
+All classes fear this relentless abstraction of the world, on which their fortunes yet depend. 
+All classes but one: the hacker class.
+We are the hackers of abstraction.
+We produce new concepts, new perceptions, new sensations, hacked out of raw data.
+Whatever code we hack, be it programming language, poetic language, math or music, curves or colorings, we are the abstracters of new worlds.
+Whether we come to represent ourselves as researchers or authors, artists or biologists, chemists or musicians, philosophers or programmers, each of these subjectivities is but a fragment of a class still becoming, bit by bit, aware of itself as such.
 
 [003]
+And yet we don’t quite know who we are.
+That is why this book seeks to make manifest our origins, our purpose and our interests.
+A hacker manifesto: Not the only manifesto, as it is in the nature of the hacker to differ from others, to differ even from oneself, over time.
+To hack is to differ.
+A hacker manifesto cannot claim to represent what refuses representation.
 
-abstraction
-
-hacker manifesto cannot claim to represent what refuses
-representation.
 [004]
-
-Hackers create the possibility of new things entering the
-world. Not always great things, or even good things, but
-new things. In art, in science, in philosophy and culture, in
-any production of knowledge where data can be gathered,
-where information can be extracted from it, and where in
-that information new possibilities for the world produced,
-there are hackers hacking the new out of the old. While we
-create these new worlds, we do not possess them. That
-which we create is mortgaged to others, and to the interests
-of others, to states and corporations who monopolize the
-means for making worlds we alone discover. We do not own
-what we produce—it owns us.
+Hackers create the possibility of new things entering the world.
+Not always great things, or even good things, but new things.
+In art, in science, in philosophy and culture, in any production of knowledge where data can be gathered, where information can be extracted from it, and where in that information new possibilities for the world produced, there are hackers hacking the new out of the old.
+While we create these new worlds, we do not possess them.
+That which we create is mortgaged to others, and to the interests of others, to states and corporations who monopolize the means for making worlds we alone discover.
+We do not own what we produce—it owns us.
 
 [005]
-
-Hackers use their knowledge and their wits to maintain
-their autonomy. Some take the money and run. (We must
-live with our compromises.) Some refuse to compromise.
-(We live as best we can.) All too often those of us who take
-one of these paths resent those who take the other. One lot
-resents the prosperity it lacks, the other resents the liberty it
-lacks to hack away at the world freely. What eludes the
-hacker class is a more abstract expression of our interests as
-a class, and of how this interest may meet those of others in
-the world.
+Hackers use their knowledge and their wits to maintain their autonomy.
+Some take the money and run.
+(We must live with our compromises.)
+Some refuse to compromise.
+(We live as best we can.)
+All too often those of us who take one of these paths resent those who take the other.
+One lot resents the prosperity it lacks, the other resents the liberty it lacks to hack away at the world freely.
+What eludes the hacker class is a more abstract expression of our interests as a class, and of how this interest may meet those of others in the world.
 
 [006]
-
-Hackers are not joiners. We’re not often willing to submerge our singularity. What the times call for is a collective
-hack that realizes a class interest based on an alignment of
-differences rather than a coercive unity. Hackers are a class,
-
-abstraction
-
-but an abstract class. A class that makes abstractions, and a
-class made abstract. To abstract hackers as a class is to abstract the very concept of class itself. The slogan of the
-hacker class is not the workers of the world united, but the
-workings of the world untied.
-
-Everywhere abstraction reigns, abstraction made concrete.
+Hackers are not joiners.
+We’re not often willing to submerge our singularity.
+What the times call for is a collective hack that realizes a class interest based on an alignment of differences rather than a coercive unity.
+Hackers are a class, but an abstract class.
+A class that makes abstractions, and a class made abstract.
+To abstract hackers as a class is to abstract the very concept of class itself.
+The slogan of the hacker class is not the workers of the world united, but the workings of the world untied.
 
 [007]
-
-Everywhere abstraction’s straight lines and pure curves order matters along complex but efficient vectors. But where
-education teaches what one may produce with an abstraction, the knowledge most useful for the hacker class is of
-how abstractions are themselves produced. Deleuze: “Abstractions explain nothing, they themselves have to be explained.”*
-
-Abstraction may be discovered or produced, may be mate-
+Everywhere abstraction reigns, abstraction made concrete.
+Everywhere abstraction’s straight lines and pure curves order matters along complex but efficient vectors. 
+But where education teaches what one may produce with an abstraction, the knowledge most useful for the hacker class is of how abstractions are themselves produced.
+Deleuze: “Abstractions explain nothing, they themselves have to be explained.”*
 
 [008]
-
-rial or immaterial, but abstraction is what every hack produces and affirms. To abstract is to construct a plane upon
-which otherwise different and unrelated matters may be
-brought into many possible relations. To abstract is to express the virtuality of nature, to make known some instance
-of its possibilities, to actualize a relation out of infinite relationality, to manifest the manifold.
-
-History is the production of abstraction and the abstraction of production. What makes life differ in one age after
-the next is the application of new modes of abstraction
-to the task of wresting freedom from necessity. History is
-the virtual made actual, one hack after another. History
-is the cumulative qualitative differentiation of nature as it
-is hacked.
+Abstraction may be discovered or produced, may be material or immaterial, but abstraction is what every hack produces and affirms.
+To abstract is to construct a plane upon which otherwise different and unrelated matters may be brought into many possible relations.
+To abstract is to express the virtuality of nature, to make known some instance of its possibilities, to actualize a relation out of infinite relationality, to manifest the manifold.
 
 [009]
-
-abstraction
+History is the production of abstraction and the abstraction of production.
+What makes life differ in one age after the next is the application of new modes of abstraction to the task of wresting freedom from necessity.
+History is the virtual made actual, one hack after another.
+History is the cumulative qualitative differentiation of nature as it is hacked.
 
 [010]
-
-Out of the abstraction of nature comes its productivity, and
-the production of a surplus over and above the necessities
-of survival. Out of this expanding surplus over necessity
-comes an expanding capacity to hack, again and again, producing further abstractions, further productivity, further release from necessity—at least in potential. But the hacking
-of nature, the production of surplus, does not make us free.
-Again and again, a ruling class arises that controls the surplus over bare necessity and enforces new necessities on
-those peoples who produce this very means of escaping necessity.
+Out of the abstraction of nature comes its productivity, and the production of a surplus over and above the necessities of survival. 
+Out of this expanding surplus over necessity comes an expanding capacity to hack, again and again, producing further abstractions, further productivity, further release from necessity—at least in potential. 
+But the hacking of nature, the production of surplus, does not make us free.
+Again and again, a ruling class arises that controls the surplus over bare necessity and enforces new necessities on those peoples who produce this very means of escaping necessity.
 
 [011]
-
-What makes our times different is the appearance on the
-horizon of possibility of a new world, long imagined—a
-world free from necessity. The production of abstraction has
-reached the threshold where it can break the shackles holding hacking fast to outdated and regressive class interests,
-once and for all. Debord: “The world already possesses the
-dream of a time whose consciousness it must now possess
-in order to actually live it.”*
+What makes our times different is the appearance on the horizon of possibility of a new world, long imagined—a world free from necessity.
+The production of abstraction has reached the threshold where it can break the shackles holding hacking fast to outdated and regressive class interests, once and for all.
+Debord: “The world already possesses the dream of a time whose consciousness it must now possess in order to actually live it.”*
 
 [012]
-
-Invention is the mother of necessity. While all states depend on abstraction for the production of their wealth and
-power, the ruling class of any given state has an uneasy relationship to the production of abstraction in new forms. The
-ruling class seeks always to control innovation and turn it to
-its own ends, depriving the hacker of control of her or his
-creation, and thereby denying the world as a whole the right
-to manage its own development.
+Invention is the mother of necessity.
+While all states depend on abstraction for the production of their wealth and power, the ruling class of any given state has an uneasy relationship to the production of abstraction in new forms.
+The ruling class seeks always to control innovation and turn it to its own ends, depriving the hacker of control of her or his creation, and thereby denying the world as a whole the right to manage its own development.
 
 [013]
-
-The production of new abstraction always takes place
-among those set apart by the act of hacking. We others who
-
-abstraction
-
-have hacked new worlds out of old, in the process become
-not merely strangers apart but a class apart. While we recognize our distinctive existence as a group, as programmers or artists or writers or scientists or musicians, we
-rarely see these ways of representing ourselves as mere fragments of a class experience. Geeks and freaks become what
-they are negatively, through exclusion by others. Together
-we form a class, a class as yet to hack itself into existence as
-itself—and for itself.
-
-It is through the abstract that the virtual is identified, pro-
+The production of new abstraction always takes place among those set apart by the act of hacking.
+We others who have hacked new worlds out of old, in the process become not merely strangers apart but a class apart.
+While we recognize our distinctive existence as a group, as programmers or artists or writers or scientists or musicians, we rarely see these ways of representing ourselves as mere fragments of a class experience.
+Geeks and freaks become what they are negatively, through exclusion by others.
+Together we form a class, a class as yet to hack itself into existence as itself—and for itself.
 
 [014]
-
-duced and released. The virtual is not just the potential latent in matter, it is the potential of potential. To hack is to
-produce or apply the abstract to information and express the
-possibility of new worlds, beyond necessity.
-
-All abstractions are abstractions of nature. Abstractions re-
+It is through the abstract that the virtual is identified, produced and released.
+The virtual is not just the potential latent in matter, it is the potential of potential.
+To hack is to produce or apply the abstract to information and express the possibility of new worlds, beyond necessity.
 
 [015]
-
-lease the potential of the material world. And yet abstraction relies on the material world’s most curious quality—information. Information can exist independently of a given
-material form, but cannot exist without any material form.
-It is at once material and immaterial. The hack depends on
-the material qualities of nature, and yet discovers something
-independent of a given material form. It is at once material
-and immaterial. It discovers the immaterial virtuality of the
-material, its qualities of information.
-
-Abstraction is always an abstraction of nature, a process
-that creates nature’s double, a second nature, a space of human existence in which collective life dwells among its own
-products and comes to take the environment it produces to
-be natural.
+All abstractions are abstractions of nature.
+Abstractions release the potential of the material world.
+And yet abstraction relies on the material world’s most curious quality—information.
+Information can exist independently of a given material form, but cannot exist without any material form.
+It is at once material and immaterial.
+The hack depends on the material qualities of nature, and yet discovers something independent of a given material form.
+It is at once material and immaterial.
+It discovers the immaterial virtuality of the material, its qualities of information.
 
 [016]
-
-abstraction
+Abstraction is always an abstraction of nature, a process that creates nature’s double, a second nature, a space of human existence in which collective life dwells among its own products and comes to take the environment it produces to be natural.
 
 [017]
-
-Land is the detachment of a resource from nature, an aspect of the productive potential of nature rendered abstract,
-in the form of property. Capital is the detachment of a resource from land, an aspect of the productive potential of
-land rendered abstract in the form of property. Information
-is the detachment of a resource from capital already detached from land. It is the double of a double. It is a further
-process of abstraction beyond capital, but one that yet again
-produces its separate existence in the form of property.
+Land is the detachment of a resource from nature, an aspect of the productive potential of nature rendered abstract, in the form of property.
+Capital is the detachment of a resource from land, an aspect of the productive potential of land rendered abstract in the form of property.
+Information is the detachment of a resource from capital already detached from land.
+It is the double of a double.
+It is a further process of abstraction beyond capital, but one that yet again produces its separate existence in the form of property.
 
 [018]
-
-Just as the development of land as a productive resource
-creates the historical advances for its abstraction in the form
-of capital, so too does the development of capital provide
-the historical advances for the further abstraction of information, in the form of “intellectual property.” In traditional
-societies, land, capital and information were bound to particular social or regional powers by customary or hereditary
-ties. What abstraction hacks out of the old feudal carcass is a
-liberation of these resources based on a more abstract form
-of property, a universal right to private property. This universal abstract form encompasses first land, then capital,
-now information.
+Just as the development of land as a productive resource creates the historical advances for its abstraction in the form of capital, so too does the development of capital provide the historical advances for the further abstraction of information, in the form of “intellectual property.”
+In traditional societies, land, capital and information were bound to particular social or regional powers by customary or hereditary ties.
+What abstraction hacks out of the old feudal carcass is a liberation of these resources based on a more abstract form of property, a universal right to private property.
+This universal abstract form encompasses first land, then capital, now information.
 
 [019]
-
-When the abstraction of property unleashes productive resources, it produces at the same time a class division. Private
-property establishes a pastoralist class that owns the land,
-and a farmer class dispossessed of it. Out of the people the
-abstraction of private property expells from its traditional
-communal right to land, it creates a dispossessed class who
-become the working class, as they are set to work by a rising
-class of owners of the material means of manufacturing, the
-
-abstraction
-
-capitalist class. This working class becomes the first class to
-seriously entertain the notion of overthrowing class rule. It
-fails in this historic task to the extent that the property form
-is not yet abstract enough to release the virtuality of classlessness that is latent in the productive energies of abstraction itself.
-
-It is always the hack that creates a new abstraction. With
+When the abstraction of property unleashes productive resources, it produces at the same time a class division.
+Private property establishes a pastoralist class that owns the land, and a farmer class dispossessed of it.
+Out of the people the abstraction of private property expells from its traditional communal right to land, it creates a dispossessed class who become the working class, as they are set to work by a rising class of owners of the material means of manufacturing, the capitalist class.
+This working class becomes the first class to seriously entertain the notion of overthrowing class rule.
+It fails in this historic task to the extent that the property form is not yet abstract enough to release the virtuality of classlessness that is latent in the productive energies of abstraction itself.
 
 [020]
-
-the emergence of a hacker class, the rate at which new abstractions are produced accelerates. The recognition of intellectual property as a form of property—itself an abstraction, a legal hack—creates a class of intellectual property
-creators. But this class still labors for the benefit of another
-class, to whose interests its own interests are subordinated.
-As the abstraction of private property is extended to information, it produces the hacker class as a class, as a class able
-to make of its innovations in abstraction a form of property.
-Unlike farmers and workers, hackers have not—yet—been
-dispossessed of their property rights entirely, but still must
-sell their capacity for abstraction to a class that owns the
-means of production, the vectoralist class—the emergent
-ruling class of our time.
-
-The vectoralist class wages an intensive struggle to dispossess hackers of their intellectual property. Patents and copyrights all end up in the hands, not of their creators, but of a
-vectoralist class that owns the means of realizing the value
-of these abstractions. The vectoralist class struggles to monopolize abstraction. For the vectoral class, “politics is about
-absolute control over intellectual property by means of warlike strategies of communication, control, and command.”*
+It is always the hack that creates a new abstraction.
+With the emergence of a hacker class, the rate at which new abstractions are produced accelerates.
+The recognition of intellectual property as a form of property—itself an abstraction, a legal hack—creates a class of intellectual property creators.
+But this class still labors for the benefit of another class, to whose interests its own interests are subordinated.
+As the abstraction of private property is extended to information, it produces the hacker class as a class, as a class able to make of its innovations in abstraction a form of property.
+Unlike farmers and workers, hackers have not—yet—been dispossessed of their property rights entirely, but still must sell their capacity for abstraction to a class that owns the means of production, the vectoralist class—the emergent ruling class of our time.
 
 [021]
+The vectoralist class wages an intensive struggle to dispossess hackers of their intellectual property.
+Patents and copyrights all end up in the hands, not of their creators, but of a vectoralist class that owns the means of realizing the value of these abstractions.
+The vectoralist class struggles to monopolize abstraction.
+For the vectoral class, “politics is about absolute control over intellectual property by means of warlike strategies of communication, control, and command.”*
+Hackers find themselves dispossessed both individually, and as a class.
 
-abstraction
-
-Hackers find themselves dispossessed both individually, and
-as a class.
 [022]
-
-As the vectoralist class consolidates its monopoly on the
-means of realizing the value of intellectual property, it confronts the hacker class more and more as a class antagonist.
-Hackers come to struggle against the usurious charges the
-vectoralists extort for access to the information that hackers collectively produce, but that vectoralists come to own.
-Hackers come to struggle against the particular forms in
-which abstraction is commodified and turned into the private property of the vectoralist class. Hackers come as a
-class to recognize their class interest is best expressed
-through the struggle to free the production of abstraction,
-not just from the particular fetters of this or that form of
-property, but to abstract the form of property itself.
+As the vectoralist class consolidates its monopoly on the means of realizing the value of intellectual property, it confronts the hacker class more and more as a class antagonist.
+Hackers come to struggle against the usurious charges the vectoralists extort for access to the information that hackers collectively produce, but that vectoralists come to own.
+Hackers come to struggle against the particular forms in which abstraction is commodified and turned into the private property of the vectoralist class.
+Hackers come as a class to recognize their class interest is best expressed through the struggle to free the production of abstraction, not just from the particular fetters of this or that form of property, but to abstract the form of property itself.
 
 [023]
+The time is past due when hackers must come together with workers and farmers—with all of the producers of the world—to liberate productive and inventive resources from the myth of scarcity.
+The time is past due for new forms of association to be created that can steer the world away from its destruction through commodified exploitation.
+The greatest hacks of our time may turn out to be forms of organizing free collective expression, so that from this time on, abstraction serves the people, rather than the people serving the ruling class.
 
-The time is past due when hackers must come together
-with workers and farmers—with all of the producers of
-the world—to liberate productive and inventive resources
-from the myth of scarcity. The time is past due for new
-forms of association to be created that can steer the world
-away from its destruction through commodified exploitation. The greatest hacks of our time may turn out to be
-forms of organizing free collective expression, so that from
-this time on, abstraction serves the people, rather than the
-people serving the ruling class.
 
-C L A S S
-
-A class arises—the working class—able to question the
+C L A S S
 
 [024]
-
-necessity of private property. A party arises, within the
-worker’s movement, claiming to answer to working class
-desires—the communists. As Marx writes, “in all these
-movements they bring to the front, as the leading question
-in each, the property question, no matter what its degree of
-development at the time.” This was the answer communists
-proposed to the property question: “centralize all instruments of production in the hands of the state.”* Making
-property a state monopoly only produced a new ruling
-class, and a new and more brutal class struggle. But is that
-our final answer? Perhaps the course of the class struggle is
-not yet over. Perhaps there is another class that can open the
-property question in a new way—and in keeping the question open end once and for all the monopoly of the ruling
-classes on the ends of history.
-
-There is a class dynamic driving each stage of the development of this vectoral world in which we now find ourselves.
-The vectoral class is driving this world to the brink of disaster, but it also opens up the world to the resources for
-overcoming its own destructive tendencies. In the three successive phases of commodification, quite different ruling
+A class arises—the working class—able to question the necessity of private property.
+A party arises, within the worker's movement, claiming to answer to working class desires—the communists.
+As Marx writes, “in all these movements they bring to the front, as the leading question in each, the property question, no matter what its degree of development at the time.”
+This was the answer communists proposed to the property question: “centralize all instruments of production in the hands of the state.”
+Making property a state monopoly only produced a new ruling class, and a new and more brutal class struggle.
+But is that our final answer?
+Perhaps the course of the class struggle is not yet over.
+Perhaps there is another class that can open the property question in a new way—and in keeping the question open end once and for all the monopoly of the ruling classes on the ends of history.
 
 [025]
+There is a class dynamic driving each stage of the development of this vectoral world in which we now find ourselves.
+The vectoral class is driving this world to the brink of disaster, but it also opens up the world to the resources for overcoming its own destructive tendencies.
+In the three successive phases of commodification, quite different ruling classes arise, usurping different forms of private property.
+Each ruling class in turn drives the world towards ever more abstract ends.
 
-class
-
-classes arise, usurping different forms of private property.
-Each ruling class in turn drives the world towards ever more
-abstract ends.
 [026]
-
-First arises a pastoralist class. They disperse the great mass
-of peasants who traditionally worked the land under the
-thumb of feudal lords. The pastoralists supplant the feudal
-lords, releasing the productivity of nature that they claim as
-their private property. It is this privatization of property—a
-legal hack—that creates the conditions for every other hack
-by which the land is made to yield a surplus. A vectoral
-world rises on the shoulders of the agricultural hack.
+First arises a pastoralist class.
+They disperse the great mass of peasants who traditionally worked the land under the thumb of feudal lords.
+The pastoralists supplant the feudal lords, releasing the productivity of nature that they claim as their private property.
+It is this privatization of property—a legal hack—that creates the conditions for every other hack by which the land is made to yield a surplus.
+A vectoral world rises on the shoulders of the agricultural hack.
 
 [027]
-
-As new forms of abstraction make it possible to produce a
-surplus from the land with fewer and fewer farmers, pastoralists turn them off their land, depriving them of their livelihood. Dispossessed farmers seek work and a new home in
-cities. Here capital puts them to work in its factories.
-Farmers become workers. Capital as property gives rise to a
-class of capitalists who own the means of production, and
-a class of workers, dispossessed of it—and by it. Whether
-as workers or farmers, the direct producers find themselves dispossessed not only of their land, but of the greater
-part of the surplus they produce, which accumulates to
-the pastoralists in the form of rent as the return on land,
-and to capitalists in the form of profit as the return on capital.
+As new forms of abstraction make it possible to produce a surplus from the land with fewer and fewer farmers, pastoralists turn them off their land, depriving them of their livelihood. 
+Dispossessed farmers seek work and a new home in cities.
+Here capital puts them to work in its factories.
+Farmers become workers.
+Capital as property gives rise to a class of capitalists who own the means of production, and a class of workers, dispossessed of it—and by it.
+Whether as workers or farmers, the direct producers find themselves dispossessed not only of their land, but of the greater part of the surplus they produce, which accumulates to the pastoralists in the form of rent as the return on land, and to capitalists in the form of profit as the return on capital.
 
 [028]
-
-Dispossessed farmers become workers, only to be dispossessed again. Having lost their agriculture, they lose in turn
-their human culture. Capital produces in its factories not
-just the necessities of existence, but a way of life it expects
-
-class
-
-its workers to consume. Commodified life dispossess the
-worker of the information traditionally passed on outside
-the realm of private property as culture, as the gift of one
-generation to the next, and replaces it with information in
-commodified form.
-
-Information, like land or capital, becomes a form of prop-
+Dispossessed farmers become workers, only to be dispossessed again. 
+Having lost their agriculture, they lose in turn their human culture.
+Capital produces in its factories not just the necessities of existence, but a way of life it expects its workers to consume.
+Commodified life dispossess the worker of the information traditionally passed on outside the realm of private property as culture, as the gift of one generation to the next, and replaces it with information in commodified form.
 
 [029]
-
-erty monopolized by a class, a class of vectoralists, so
-named because they control the vectors along which information is abstracted, just as capitalists control the material
-means with which goods are produced, and pastoralists the
-land with which food is produced. This information, once
-the collective property of the productive classes—the working and farming classes considered together—becomes the
-property of yet another appropriating class.
-
-As peasants become farmers through the appropriation of
-their land, they still retain some autonomy over the disposition of their working time. Workers, even though they do
-not own capital, and must work according to the clock
-and its merciless time, could at least struggle to reduce the
-working day and release free time from labor. Information
-circulated within working class culture as a public property
-belonging to all. But when information in turn becomes
-a form of private property, workers are dispossessed of it,
-and must buy their own culture back from its owners, the
-vectoralist class. The farmer becomes a worker, and the
-worker, a slave. The whole world becomes subject to the extraction of a surplus from the producing classes that is controlled by the ruling classes, who use it merely to reproduce
-and expand this matrix of exploitation. Time itself becomes
-a commodified experience.
+Information, like land or capital, becomes a form of property monopolized by a class, a class of vectoralists, so named because they control the vectors along which information is abstracted, just as capitalists control the material means with which goods are produced, and pastoralists the land with which food is produced.
+This information, once the collective property of the productive classes—the working and farming classes considered together—becomes the property of yet another appropriating class.
 
 [030]
-
-class
+As peasants become farmers through the appropriation of their land, they still retain some autonomy over the disposition of their working time.
+Workers, even though they do not own capital, and must work according to the clock and its merciless time, could at least struggle to reduce the working day and release free time from labor.
+Information circulated within working class culture as a public property belonging to all.
+But when information in turn becomes a form of private property, workers are dispossessed of it, and must buy their own culture back from its owners, the vectoralist class.
+The farmer becomes a worker, and the worker, a slave.
+The whole world becomes subject to the extraction of a surplus from the producing classes that is controlled by the ruling classes, who use it merely to reproduce and expand this matrix of exploitation. 
+Time itself becomes a commodified experience.
 
 [031]
-
-The producing classes—farmers, workers, hackers—struggle against the expropriating classes—pastoralists, capitalists, vectoralists—but these successive ruling classes struggle
-also amongst themselves. Capitalists try to break the pastoral monopoly on land and subordinate the produce of the
-land to industrial production. Vectoralists try to break capital’s monopoly on the production process, and subordinate
-the production of goods to the circulation of information:
-“The privileged realm of electronic space controls the physical logistics of manufacture, since the release of raw materials and manufactured goods requires electronic consent and
-direction.”*
+The producing classes—farmers, workers, hackers—struggle against the expropriating classes—pastoralists, capitalists, vectoralists—but these successive ruling classes struggle also amongst themselves.
+Capitalists try to break the pastoral monopoly on land and subordinate the produce of the land to industrial production.
+Vectoralists try to break capital’s monopoly on the production process, and subordinate the production of goods to the circulation of information: “The privileged realm of electronic space controls the physical logistics of manufacture, since the release of raw materials and manufactured goods requires electronic consent and direction.”
 
 [032]
-
-That the vectoralist class has replaced capital as the dominant exploiting class can be seen in the form that the leading
-corporations take. These firms divest themselves of their
-productive capacity, as this is no longer a source of power.
-They rely on a competing mass of capitalist contractors
-for the manufacture of their products. Their power lies in
-monopolizing intellectual property—patents, copyrights
-and trademarks—and the means of reproducing their
-value—the vectors of communication. The privatization of
-information becomes the dominant, rather than a subsidiary, aspect of commodified life. “There is a certain logic to
-this progression: first, a select group of manufacturers transcend their connection to earthbound products, then, with
-marketing elevated as the pinnacle of their business, they
-attempt to alter marketing’s social status as a commercial
-interruption and replace it with seamless integration.”*
-With the rise of the vectoral class, the vectoral world is
-complete.
-
-class
-
-As private property advances from land to capital to infor-
+That the vectoralist class has replaced capital as the dominant exploiting class can be seen in the form that the leading corporations take.
+These firms divest themselves of their productive capacity, as this is no longer a source of power.
+They rely on a competing mass of capitalist contractors for the manufacture of their products.
+Their power lies in monopolizing intellectual property—patents, copyrights and trademarks—and the means of reproducing their value—the vectors of communication.
+The privatization of information becomes the dominant, rather than a subsidiary, aspect of commodified life.
+“There is a certain logic to this progression: first, a select group of manufacturers transcend their connection to earthbound products, then, with marketing elevated as the pinnacle of their business, they attempt to alter marketing’s social status as a commercial interruption and replace it with seamless integration.”
+With the rise of the vectoral class, the vectoral world is complete.
 
 [033]
-
-mation, property itself becomes more abstract. Capital as
-property frees land from its spatial fixity. Information as
-property frees capital from its fixity in a particular object.
+As private property advances from land to capital to information, property itself becomes more abstract.
+Capital as property frees land from its spatial fixity.
+Information as property frees capital from its fixity in a particular object.
 This abstraction of property makes property itself something amenable to accelerated innovation—and conflict.
-Class conflict fragments, but creeps into any and every relation that becomes a relation of property. The property
-question, the basis of class, becomes the question asked
-everywhere, of everything. If “class” appears absent to the
-apologists of our time, it is not because it has become just
-another in a series of antagonisms and articulations, but on
-the contrary because it has become the structuring principle
-of the vectoral plane which organizes the play of identities
-as differences.
-
-The hacker class, producer of new abstractions, becomes
-more important to each successive ruling class, as each depends more and more on information as a resource. Land
-cannot be reproduced at will. Good land lends itself to scarcity, and the abstraction of private property is almost
-enough on its own to protect the rents of the pastoral class.
-Capital’s profits rest on mechanically reproducible means of
-production, its factories and inventories. The capitalist firm
-sometimes needs the hacker to refine and advance the tools
-and techniques of productions to stay abreast of the competition. Information is the most easily reproducible object
-ever captured in the abstraction of property. Nothing protects the vectoralist business from its competitors other than
-its capacity to qualitatively transform the information it possesses and extract new value from it. The services of the
+Class conflict fragments, but creeps into any and every relation that becomes a relation of property.
+The property question, the basis of class, becomes the question asked everywhere, of everything.
+If “class” appears absent to the apologists of our time, it is not because it has become just another in a series of antagonisms and articulations, but on the contrary because it has become the structuring principle of the vectoral plane which organizes the play of identities as differences.
 
 [034]
+The hacker class, producer of new abstractions, becomes more important to each successive ruling class, as each depends more and more on information as a resource.
+Land cannot be reproduced at will.
+Good land lends itself to scarcity, and the abstraction of private property is almost enough on its own to protect the rents of the pastoral class.
+Capital’s profits rest on mechanically reproducible means of production, its factories and inventories.
+The capitalist firm sometimes needs the hacker to refine and advance the tools and techniques of productions to stay abreast of the competition.
+Information is the most easily reproducible object ever captured in the abstraction of property.
+Nothing protects the vectoralist business from its competitors other than its capacity to qualitatively transform the information it possesses and extract new value from it.
+The services of the hacker class become indispensable to an economy that is itself more and more dispensable—an economy of property and scarcity.
 
-class
-
-hacker class become indispensable to an economy that is itself more and more dispensable—an economy of property
-and scarcity.
 [035]
-
-As the means of production become more abstract, so too
-does the property form. Property has to expand to contain
-more and more complex forms of difference, and reduce it
-to equivalence. To render land equivalent, it is enough to
-draw up its boundaries, and create a means of assigning it as
-an object to a subject. Complexities will arise, naturally,
-from this unnatural imposition on the surface of the world,
-although the principle is a simple abstraction. But for something to be represented as intellectual property, it is not
-enough for it to be in a different location. It must be qualitatively different. That difference, which makes a copyright or
-a patent possible, is the work of the hacker class. The hacker
-class makes what Bateson calls “the difference that makes
-the difference.”* The difference that drives the abstraction
-of the world, but which also drives the accumulation of
-class power in the hands of the vectoral class.
+As the means of production become more abstract, so too does the property form.
+Property has to expand to contain more and more complex forms of difference, and reduce it to equivalence.
+To render land equivalent, it is enough to draw up its boundaries, and create a means of assigning it as an object to a subject.
+Complexities will arise, naturally, from this unnatural imposition on the surface of the world, although the principle is a simple abstraction.
+But for something to be represented as intellectual property, it is not enough for it to be in a different location.
+It must be qualitatively different.
+That difference, which makes a copyright or a patent possible, is the work of the hacker class.
+The hacker class makes what Bateson calls “the difference that makes
+the difference.”
+The difference that drives the abstraction of the world, but which also drives the accumulation of class power in the hands of the vectoral class.
 
 [036]
-
 The hacker class arises out of the transformation of information into property, in the form of intellectual property.
-This legal hack makes of the hack a property producing process, and thus a class producing process. The hack produces
-the class force capable of asking—and answering—the property question, the hacker class. The hacker class is the class
-with the capacity to create not only new kinds of object and
-subject in the world, not only new kinds of property form in
-which they may be represented, but new kinds of relation,
-
-class
-
-with unforseen properties, which question the property
-form itself. The hacker class realizes itself as a class when it
-hacks the abstraction of property and overcomes the limitations of existing forms of property.
-
-The hacker class may be flattered by the attention lavished
+This legal hack makes of the hack a property producing process, and thus a class producing process.
+The hack produces the class force capable of asking—and answering—the property question, the hacker class.
+The hacker class is the class with the capacity to create not only new kinds of object and subject in the world, not only new kinds of property form in which they may be represented, but new kinds of relation, with unforseen properties, which question the property form itself.
+The hacker class realizes itself as a class when it hacks the abstraction of property and overcomes the limitations of existing forms of property.
 
 [037]
-
-upon it by capitalists compared to pastoralists, and vectoralists compared to capitalists. Hackers tend to ally at each
-turn with the more abstract form of property and commodity relation. But hackers soon feel the restrictive grip of each
-ruling class, as it secures its dominance over its predecessor and rival, and can renege on the dispensations it extended to hackers as a class. The vectoralist class, in particular, will go out of its way to court and coopt the
-productivity of hackers, but only because of its attenuated
-dependence on new abstraction as the engine of competition among vectoral interests. When the vectoralists act in
-concert as a class it is to subject hacking to the prerogatives
-of its class power.
-
-The vectoral world is dynamic. It puts new abstractions to
-work, producing new freedoms from necessity. The direction this struggle takes is not given in the course of things,
-but is determined by the struggle between classes. All
-classes enter into relations of conflict, collusion and compromise. Their relations are not necessarily dialectical.
-Classes may form alliances of mutual interest against other
-classes, or may arrive at a “historic compromise,” for a time.
-Yet despite pauses and setbacks, the class struggle drives history into abstraction and abstraction into history.
+The hacker class may be flattered by the attention lavished upon it by capitalists compared to pastoralists, and vectoralists compared to capitalists.
+Hackers tend to ally at each turn with the more abstract form of property and commodity relation.
+But hackers soon feel the restrictive grip of each ruling class, as it secures its dominance over its predecessor and rival, and can renege on the dispensations it extended to hackers as a class.
+The vectoralist class, in particular, will go out of its way to court and coopt the productivity of hackers, but only because of its attenuated dependence on new abstraction as the engine of competition among vectoral interests.
+When the vectoralists act in concert as a class it is to subject hacking to the prerogatives of its class power.
 
 [038]
-
-class
+The vectoral world is dynamic.
+It puts new abstractions to work, producing new freedoms from necessity.
+The direction this struggle takes is not given in the course of things, but is determined by the struggle between classes.
+All classes enter into relations of conflict, collusion and compromise. Their relations are not necessarily dialectical.
+Classes may form alliances of mutual interest against other classes, or may arrive at a “historic compromise,” for a time.
+Yet despite pauses and setbacks, the class struggle drives history into abstraction and abstraction into history.
 
 [039]
-
-Sometimes capital forms an alliance with the pastoralists,
-and the two classes effectively merge under the leadership
-of the capitalist interest. Sometimes capital forms an alliance with workers against the pastoralist class, an alliance
-quickly broken once the dissolution of the pastoralist class is
-achieved. These struggles leave their traces in the historical
-form of the state, which maintains the domination of the
-ruling class interest and at the same time adjudicates among
-the representatives of competing classes.
+Sometimes capital forms an alliance with the pastoralists, and the two classes effectively merge under the leadership of the capitalist interest.
+Sometimes capital forms an alliance with workers against the pastoralist class, an alliance quickly broken once the dissolution of the pastoralist class is achieved.
+These struggles leave their traces in the historical form of the state, which maintains the domination of the ruling class interest and at the same time adjudicates among the representatives of competing classes.
 
 [040]
-
-History is full of surprises. Sometimes—for a change—the
-workers form an alliance with the farmers that socializes
-private property and puts it in the hands of the state, while
-liquidating the pastoralist and capitalist classes. In this case,
-the state then becomes a collective pastoralist and capitalist class, and wields class power over a commodity economy organized on a bureaucratic rather than competitive
-basis.
+History is full of surprises.
+Sometimes—for a change—the workers form an alliance with the farmers that socializes private property and puts it in the hands of the state, while liquidating the pastoralist and capitalist classes.
+In this case, the state then becomes a collective pastoralist and capitalist class, and wields class power over a commodity economy organized on a bureaucratic rather than competitive basis.
 
 [041]
-
-The vectoralist class emerges out of competitive, rather
-than bureaucratic states. Competitive conditions drive the
-search for productive abstraction more effectively. The development of abstract forms of intellectual property creates the relative autonomy in which the hacker class can
-produce abstractions, although this productivity is constrained within the commodity form.
+The vectoralist class emerges out of competitive, rather than bureaucratic states.
+Competitive conditions drive the search for productive abstraction more effectively.
+The development of abstract forms of intellectual property creates the relative autonomy in which the hacker class can produce abstractions, although this productivity is constrained within the commodity form.
 
 [042]
-
-One thing unites pastoralists, capitalists and vectoralists—
-the sanctity of the property form on which class power depends. Each depends on forms of abstraction that they may
-buy and own but do not produce. Each comes to depend on
-
-class
-
-the hacker class, which finds new ways of making nature
-productive, which discovers new patterns in the data thrown
-off by nature and second nature, which produces new abstractions through which nature may be made to yield more
-of a second nature—perhaps even a third nature.
-
-The hacker class, being numerically small and not owning
+One thing unites pastoralists, capitalists and vectoralists—the sanctity of the property form on which class power depends.
+Each depends on forms of abstraction that they may buy and own but do not produce.
+Each comes to depend on the hacker class, which finds new ways of making nature productive, which discovers new patterns in the data thrown off by nature and second nature, which produces new abstractions through which nature may be made to yield more of a second nature—perhaps even a third nature.
 
 [043]
-
-the means of production, finds itself caught between a politics of the masses from below and a politics of the rulers
-from above. It must bargain as best it can, or do what it does
-best—hack out a new politics, beyond this opposition. In the
-long run, the interests of the hacker class are in accord with
-those who would benefit most from the advance of abstraction, namely those productive classes dispossessed of the
-means of production—farmers and workers. In the effort to
-realize this possibility the hacker class hacks politics itself,
-creating a new polity, turning mass politics into a politics of
-multiplicity, in which all the productive classes can express
-their virtuality.
-
-The hacker interest cannot easily form alliances with forms
-of mass politics that subordinate minority differences to
-unity in action. Mass politics always run the danger of suppressing the creative, abstracting force of the interaction of
-differences. The hacker interest is not in mass representation, but in a more abstract politics that expresses the productivity of differences. Hackers, who produce many classes
-of knowledge out of many classes of experience, have the
-potential also to produce a new knowledge of class formation and action when working together with the collective
-experience of all the productive classes.
+The hacker class, being numerically small and not owning the means of production, finds itself caught between a politics of the masses from below and a politics of the rulers from above.
+It must bargain as best it can, or do what it does best—hack out a new politics, beyond this opposition.
+In the long run, the interests of the hacker class are in accord with those who would benefit most from the advance of abstraction, namely those productive classes dispossessed of the means of production—farmers and workers.
+In the effort to realize this possibility the hacker class hacks politics itself, creating a new polity, turning mass politics into a politics of multiplicity, in which all the productive classes can express their virtuality.
 
 [044]
-
-class
+The hacker interest cannot easily form alliances with forms of mass politics that subordinate minority differences to unity in action.
+Mass politics always run the danger of suppressing the creative, abstracting force of the interaction of differences.
+The hacker interest is not in mass representation, but in a more abstract politics that expresses the productivity of differences. 
+Hackers, who produce many classes of knowledge out of many classes of experience, have the potential also to produce a new knowledge of class formation and action when working together with the collective experience of all the productive classes.
 
 [045]
-
-A class is not the same as its representation. In politics
-one must beware of representations held out to be classes,
-which represent only a fraction of a class and do not express
-its multiple interests. Classes do not have vanguards that
-may speak for them. Classes express themselves equally in
-all of their multiple interests and actions. The hacker class is
-not what it is; the hacker class is what it is not—but can become.
+A class is not the same as its representation.
+In politics one must beware of representations held out to be classes, which represent only a fraction of a class and do not express its multiple interests.
+Classes do not have vanguards that may speak for them.
+Classes express themselves equally in all of their multiple interests and actions.
+The hacker class is not what it is; the hacker class is what it is not—but can become.
 
 [046]
-
-Through the development of abstraction, freedom may yet
-be wrested from necessity. The vectoralist class, like its predecessors, seeks to shackle abstraction to the production of
-scarcity and margin, not abundance and liberty. The formation of the hacker class as a class comes at just this moment
-when freedom from necessity and from class domination
-appears on the horizon as a possibility. Negri: “What is
-this world of political, ideological and productive crisis, this
-world of sublimation and uncontrollable circulation? What
-is it, then, if not an epoch-making leap beyond everything
-humanity has hitherto experienced? . . . It constitutes simultaneously the ruin and the new potential of all meaning.”*
-All that it takes is the hacking of the hacker class as a class, a
-class capable of hacking property itself, which is the fetter upon all productive means and on the productivity of
-meaning.
+Through the development of abstraction, freedom may yet be wrested from necessity.
+The vectoralist class, like its predecessors, seeks to shackle abstraction to the production of scarcity and margin, not abundance and liberty.
+The formation of the hacker class as a class comes at just this moment when freedom from necessity and from class domination appears on the horizon as a possibility.
+Negri: “What is this world of political, ideological and productive crisis, this world of sublimation and uncontrollable circulation? What is it, then, if not an epoch-making leap beyond everything humanity has hitherto experienced? . . . It constitutes simultaneously the ruin and the new potential of all meaning.”
+All that it takes is the hacking of the hacker class as a class, a class capable of hacking property itself, which is the fetter upon all productive means and on the productivity of meaning.
 
 [047]
+The struggle among classes has hitherto determined the disposition of the surplus, the regime of scarcity and the form in which production grows.
+But now the stakes are far higher.
+Survival and liberty are both on the horizon at once.
+The ruling classes turn not just the producing classes into an instrumental resource, but nature itself, to the point where class exploitation and the exploitation of nature become the same unsustainable objectification.
+The potential of a class divided world to produce its own overcoming comes not a moment too soon.
 
-The struggle among classes has hitherto determined the
-disposition of the surplus, the regime of scarcity and the
-form in which production grows. But now the stakes are far
-higher. Survival and liberty are both on the horizon at once.
-The ruling classes turn not just the producing classes into an
 
-class
-
-instrumental resource, but nature itself, to the point where
-class exploitation and the exploitation of nature become the
-same unsustainable objectification. The potential of a classdivided world to produce its own overcoming comes not a
-moment too soon.
-
-E D U C A T I O N
+E D U C A T I O N
 
 Education is slavery. Education enchains the mind and
 
