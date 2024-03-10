@@ -12,12 +12,13 @@
     position: absolute;
     top: 0;
     left: 0;
-    height: 100vh;
+    height: auto;
+    min-height: 100vh;
     width: 100vw;
     z-index: 99;
-    background: rgba(255, 255, 255, 0.6);
+    background: rgba(255, 255, 255, 0.75);
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
     -webkit-backdrop-filter: blur(5px);
     backdrop-filter: blur(3px);
@@ -29,6 +30,7 @@
 }
 
 .title {
+    padding-top: 200px;
     font-size: xxx-large;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bolder;
@@ -37,6 +39,11 @@
 
 .button-holder {
     padding-top: 50px;
+}
+
+#results {
+    padding: 50px 100px 50px;
+    font-weight: 400;
 }
 
 button {

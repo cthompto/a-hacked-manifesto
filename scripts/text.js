@@ -1,15 +1,29 @@
+// Main text modification and generation script
+// For "A Hacked Manifesto"
+
+// Universal data, variables and constants
 var manifesto;
 fetch('./text/hacker-text.json')
   .then(response => response.json())
   .then(data => {
     console.log(data);
-    manifesto = data;
-})
-  .catch(error => console.error('Error fetching JSON:', error));
+    manifesto = data;})
+  .catch(error => console.error('Error fetching JSON:', error)
+);
 
-  //console.log(manifesto);
+var manifesto2;
+fetch('./text/Wark_McKenzie_A_Hacker_Manifesto.txt')
+  .then(response => response.text())
+  .then(data => {manifesto2 = data;})
+  .catch(error => console.error('Error fetching text:', error)
+);
 
-const ranBut = document.getElementById("rb");
+const results = document.getElementById("result-text");
+
+// BUTTONS
+
+// Random Sentence Button
+const ranBut = document.getElementById("rs");
 ranBut.addEventListener("click", randomText);
 
 function randomText() {
@@ -19,4 +33,20 @@ function randomText() {
     console.log("Section: " + manifesto.sections[ranSec].name);
     console.log("Paragraph: " + manifesto.sections[ranSec].paragraphs[ranPar].number);
     console.log("Line: " + manifesto.sections[ranSec].paragraphs[ranPar].sentences[ranLin]);
+
+    let sentence = manifesto.sections[ranSec].paragraphs[ranPar].sentences[ranLin];
+    results.innerText = sentence;
+}
+
+// Sentence Combiner Button
+const combBut = document.getElementById("sc");
+combBut.addEventListener("click", sentenceCombiner);
+
+function sentenceCombiner() {
+    console.log("hi");
+    let rm = RiTa.markov(5);
+    rm.addText(manifesto2);
+    sentences = rm.generate(2);
+    console.log(sentences);
+    results.innerText = sentences;
 }
