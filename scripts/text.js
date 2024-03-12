@@ -43,7 +43,7 @@ const combBut = document.getElementById("sc");
 combBut.addEventListener("click", sentenceCombiner);
 
 function sentenceCombiner() {
-    let rm = RiTa.markov(4);
+    let rm = RiTa.markov(3);
     rm.addText(manifesto2);
     sentences = rm.generate(3);
     console.log(sentences);
