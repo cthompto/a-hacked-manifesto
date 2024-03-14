@@ -25,6 +25,26 @@ const underLay = document.getElementById("underlay");
 
 // BUTTONS
 
+// About Button
+const aboutBut = document.getElementById("ab");
+aboutBut.addEventListener("click", aboutDisplay);
+
+function aboutDisplay() {
+    var aboutContainer = document.getElementById("about"),
+        aboutStyle = window.getComputedStyle(aboutContainer),
+        aboutDisplay = aboutStyle.getPropertyValue("display");
+    if (aboutDisplay == "none") {
+        aboutContainer.style.display = "block";
+    } else if (aboutDisplay == "block") {
+        aboutContainer.style.display = "none";
+    }
+    if(aboutBut.innerHTML == "About +") {
+        aboutBut.innerHTML = "About -";
+    } else if (aboutBut.innerHTML == "About -"){
+        aboutBut.innerHTML = "About +";
+    }
+}
+
 // Random Sentence Button
 const ranBut = document.getElementById("rs");
 ranBut.addEventListener("click", randomSentence);

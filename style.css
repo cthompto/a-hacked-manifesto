@@ -44,6 +44,11 @@
     margin: auto;
 }
 
+#about {
+    display: none;
+    font-size: large;
+}
+
 #results {
     padding: 50px 200px 50px;
     font-weight: 400;
