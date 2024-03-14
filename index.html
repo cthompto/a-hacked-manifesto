@@ -9,7 +9,7 @@
   <script src="./scripts/signature.js"></script>
 </head>
 <body>
-  <div class="underlay">
+  <div id="underlay">
     <p>
       Adouble spooks the world, the double of abstraction. The fortunes of
       states and armies, companies and communities depend on it. All contending
@@ -100,12 +100,14 @@
     </div>
     <p>(after A Hacker Manifesto)</p>
     <div class="button-holder">
-      <button>Shuffler</button>
-      <button>Splicer</button>
       <button title="Selects one paragraph from each section of the original text and combines them." id="17p">17 Paragraph Manifesto</button>
-      <button>Text Replacer</button>
+      <button title="Selects one sentence from each section of the original text and combines them." id="17s">17 Paragraph Sentence</button>
+      <button title="Selects one paragraph and shuffles the sentences." id="ps">Paragraph Shuffler</button>
       <button title="Combines text using Markov chains to produce three new sentences." id="sc">Sentence Combiner</button>
+      <button title="Pulls a random paragraph from the manifesto." id="rp">Random Paragraph</button>
       <button title="Pulls a random sentence from the manifesto." id="rs">Random Sentence</button>
+      <button>Text Replacer</button>
+      <button>Splicer</button>
     </div>
     <div id="results">
        <p id="result-text"> </p> 

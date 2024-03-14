@@ -1,7 +1,7 @@
 // Main text modification and generation script
 // For "A Hacked Manifesto"
 
-// Universal data, variables and constants
+// Global data, variables, and constants
 var manifesto;
 fetch('./text/hacker-text.json')
   .then(response => response.json())
@@ -13,20 +13,23 @@ fetch('./text/hacker-text.json')
 
 var manifesto2;
 fetch('./text/Wark_McKenzie_A_Hacker_Manifesto.txt')
-  .then(response => response.text())
-  .then(data => {manifesto2 = data;})
+  .then(response2 => response2.text())
+  .then(data2 => {manifesto2 = data2;})
   .catch(error => console.error('Error fetching text:', error)
 );
 
 const results = document.getElementById("result-text");
 
+// Underlay Loading
+const underLay = document.getElementById("underlay");
+
 // BUTTONS
 
 // Random Sentence Button
 const ranBut = document.getElementById("rs");
-ranBut.addEventListener("click", randomText);
+ranBut.addEventListener("click", randomSentence);
 
-function randomText() {
+function randomSentence() {
     let ranSec = Math.floor(Math.random() * ((Object.keys(manifesto.sections).length)-1));
     let ranPar = Math.floor(Math.random() * (Object.keys(manifesto.sections[ranSec].paragraphs).length));
     let ranLin = Math.floor(Math.random() * (Object.keys(manifesto.sections[ranSec].paragraphs[ranPar].sentences).length));
@@ -36,6 +39,55 @@ function randomText() {
 
     let sentence = manifesto.sections[ranSec].paragraphs[ranPar].sentences[ranLin];
     results.innerText = sentence;
+}
+
+// Random Paragraph Button
+const ranBut2 = document.getElementById("rp");
+ranBut2.addEventListener("click", randomParagraph)
+
+function randomParagraph() {
+    let ranSec = Math.floor(Math.random() * ((Object.keys(manifesto.sections).length)-1));
+    let ranPar = Math.floor(Math.random() * (Object.keys(manifesto.sections[ranSec].paragraphs).length));
+    let paragraphLength = manifesto.sections[ranSec].paragraphs[ranPar].sentences.length;
+    let paragraphContent = "";
+
+    for (let j = 0; j < paragraphLength; j++) {
+        let sentenceContent = manifesto.sections[ranSec].paragraphs[ranPar].sentences[j]+" ";
+        paragraphContent += sentenceContent;
+    }
+    results.innerText = paragraphContent;
+
+}
+
+// Paragraph Shuffle Button
+const shuffleBut = document.getElementById("ps");
+shuffleBut.addEventListener("click", paragraphShuffler);
+
+function paragraphShuffler() {
+    let shuffledPar = "";
+    let lineBreaks = "\n\n\n";
+    let ranSec = Math.floor(Math.random() * ((Object.keys(manifesto.sections).length)-1));
+    let sectionName = manifesto.sections[ranSec].name;
+    let ranPar = Math.floor(Math.random() * (Object.keys(manifesto.sections[ranSec].paragraphs).length));
+    let paragraphLength = manifesto.sections[ranSec].paragraphs[ranPar].sentences.length;
+    let unshuffled = manifesto.sections[ranSec].paragraphs[ranPar].sentences;
+    console.log(unshuffled);
+
+    let shuffled = unshuffled
+        .map(value => ({ value, sort: Math.random() }))
+        .sort((a, b) => a.sort - b.sort)
+        .map(({ value }) => value);
+    
+    console.log(shuffled);
+
+    shuffledPar += sectionName;
+    shuffledPar += lineBreaks;
+
+    for (let i = 0; i < paragraphLength; i++) {
+        shuffledPar += shuffled[i]+" ";
+    }
+
+    results.innerText = shuffledPar;
 }
 
 // Sentence Combiner Button
@@ -50,6 +102,7 @@ function sentenceCombiner() {
     results.innerText = sentences[0]+"\n"+"\n"+"\n"+sentences[1]+"\n"+"\n"+"\n"+sentences[2];
 }
 
+// 17 Paragraph Manifesto
 const seventeenPar = document.getElementById("17p");
 seventeenPar.addEventListener("click", seventeenParagraphs);
 
@@ -79,4 +132,30 @@ function seventeenParagraphs() {
     }
     results.innerText = shortManifesto;
 
+}
+
+// 17 Sentence Manifesto
+
+const seventeenSent = document.getElementById("17s");
+seventeenSent.addEventListener("click", seventeenSentences);
+
+function seventeenSentences() {
+    let sectionLength = manifesto.sections.length;
+    let shortManifesto = "";
+    let lineBreaks = "\n\n\n";
+
+    for (let i = 0; i < sectionLength; i++) {
+        let ranParagraph = Math.floor(Math.random() * (Object.keys(manifesto.sections[i].paragraphs).length));
+        let paragraphName = manifesto.sections[i].name;
+        let ranSent = Math.floor(Math.random() * (Object.keys(manifesto.sections[i].paragraphs[ranParagraph].sentences).length));
+        let paragraphContent = manifesto.sections[i].paragraphs[ranParagraph].sentences[ranSent]; 
+
+        console.log(paragraphName);
+        console.log(paragraphContent);
+        shortManifesto += paragraphName;
+        shortManifesto += lineBreaks;
+        shortManifesto += paragraphContent;
+        shortManifesto += lineBreaks;
+    }
+    results.innerText = shortManifesto;
 }

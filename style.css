@@ -1,4 +1,4 @@
-.underlay {
+#underlay {
     z-index: 1;
     font-family: 'Courier New', Courier, monospace;
     font-size: larger;
@@ -39,6 +39,9 @@
 
 .button-holder {
     padding-top: 50px;
+    max-width: 75%;
+    display: block;
+    margin: auto;
 }
 
 #results {
@@ -51,6 +54,7 @@ button {
     padding-bottom: 10px;
     padding-left: 20px;
     padding-right: 20px;
+    margin: 10px;
     font-family: 'Courier New', Courier, monospace;
     font-weight: 800;
     border: 1px solid black;
