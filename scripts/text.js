@@ -49,3 +49,34 @@ function sentenceCombiner() {
     console.log(sentences);
     results.innerText = sentences[0]+"\n"+"\n"+"\n"+sentences[1]+"\n"+"\n"+"\n"+sentences[2];
 }
+
+const seventeenPar = document.getElementById("17p");
+seventeenPar.addEventListener("click", seventeenParagraphs);
+
+function seventeenParagraphs() {
+    let lineBreaks = "\n\n\n";
+    let sectionLength = manifesto.sections.length;
+    console.log(sectionLength);
+    let shortManifesto = "";
+
+    for (let i = 0; i < sectionLength; i++) {
+        let ranParagraph = Math.floor(Math.random() * (Object.keys(manifesto.sections[i].paragraphs).length));
+        let paragraphName = manifesto.sections[i].name;
+        let paragraphLength = manifesto.sections[i].paragraphs[ranParagraph].sentences.length;
+        let paragraphContent = "";
+
+        for (let j = 0; j < paragraphLength; j++) {
+            let sentenceContent = manifesto.sections[i].paragraphs[ranParagraph].sentences[j]+" ";
+            paragraphContent += sentenceContent;
+        }
+
+        console.log(paragraphName);
+        console.log(paragraphContent);
+        shortManifesto += paragraphName;
+        shortManifesto += lineBreaks;
+        shortManifesto += paragraphContent;
+        shortManifesto += lineBreaks;
+    }
+    results.innerText = shortManifesto;
+
+}
