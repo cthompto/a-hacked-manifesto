@@ -1,4 +1,7 @@
 #underlay {
+    position: fixed;
+    top: 0;
+    left: 0;
     z-index: 1;
     font-family: 'Courier New', Courier, monospace;
     font-size: larger;
@@ -85,4 +88,5 @@ button {
 
 button:hover {
     color: darkred;
+    border: 1px solid darkred;
 }

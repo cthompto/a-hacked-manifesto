@@ -8,6 +8,9 @@ fetch('./text/hacker-text.json')
   .then(data => {
     console.log(data);
     manifesto = data;})
+    .then((responseJson) => {
+        this.underlayText(responseJson);
+      })
   .catch(error => console.error('Error fetching JSON:', error)
 );
 
@@ -18,10 +21,56 @@ fetch('./text/Wark_McKenzie_A_Hacker_Manifesto.txt')
   .catch(error => console.error('Error fetching text:', error)
 );
 
+
+
 const results = document.getElementById("result-text");
 
 // Underlay Loading
+
 const underLay = document.getElementById("underlay");
+const underlayContent = document.getElementById("underlayContent");
+
+function underlayText() {
+
+    
+    let lineBreaks = "\n\n\n";
+    let bookLength = manifesto.sections.length;
+    let fullManifesto = "";
+
+    for (let i = 0; i < bookLength; i++) {
+        
+        let sectionName = manifesto.sections[i].name;
+        let sectionLength = manifesto.sections[i].paragraphs.length;
+        let sectionContent = "";
+
+        for (let j = 0; j < sectionLength; j++) {
+            
+            let paragraphLength = manifesto.sections[i].paragraphs[j].sentences.length;
+            let paragraphNumber = manifesto.sections[i].paragraphs[j].number;
+            let paragraphContent = "";
+            paragraphContent += paragraphNumber;
+            paragraphContent += "\n\n";
+
+            for (let k = 0; k < paragraphLength; k++) {
+                let sentenceContent = manifesto.sections[i].paragraphs[j].sentences[k]+" ";
+                paragraphContent += sentenceContent;
+            }
+            sectionContent += paragraphContent;
+            sectionContent += lineBreaks;
+        }
+        fullManifesto += sectionName;
+        fullManifesto += sectionContent;
+
+        console.log(sectionName);
+        console.log(sectionContent);
+        
+    }
+
+    underlayContent.innerText = fullManifesto;
+
+}
+
+
 
 // BUTTONS
 
