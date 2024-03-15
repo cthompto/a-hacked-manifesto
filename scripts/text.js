@@ -31,10 +31,10 @@ function underlayText() {
 
     
     let lineBreaks = "\n\n\n";
-    let bookLength = manifesto.sections.length;
+    //let bookLength = manifesto.sections.length;
     let fullManifesto = "";
 
-    for (let i = 0; i < bookLength; i++) {
+    for (let i = 0; i < 1; i++) {
         
         let sectionName = manifesto.sections[i].name;
         let sectionLength = manifesto.sections[i].paragraphs.length;
