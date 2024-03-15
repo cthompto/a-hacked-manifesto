@@ -230,3 +230,27 @@ function seventeenSentences() {
 }
 
 // Text Replacer Button
+const trBut = document.getElementById("tr")
+trBut.addEventListener("click", textReplacer);
+
+function textReplacer() {
+    let placeHolder1 = "This function will be added in the future. "
+    let placeHolder2 = "Replaces one word with another in a given section and paragraph."
+    let placeholderContent = ""
+    placeholderContent += placeHolder1;
+    placeholderContent += placeHolder2;
+    results.innerHTML = placeholderContent;
+}
+
+// Splicer Button
+const splicerBut = document.getElementById("spli")
+splicerBut.addEventListener("click", splicer);
+
+function splicer() {
+    let placeHolder1 = "This function will be added in the future. "
+    let placeHolder2 = "Merges a user provided text with a section from the manifesto using Markov chains."
+    let placeholderContent = ""
+    placeholderContent += placeHolder1;
+    placeholderContent += placeHolder2;
+    results.innerHTML = placeholderContent;
+}
