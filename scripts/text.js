@@ -179,3 +179,5 @@ function seventeenSentences() {
     }
     results.innerText = shortManifesto;
 }
+
+// Text Replacer Button

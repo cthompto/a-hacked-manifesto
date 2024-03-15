@@ -98,25 +98,81 @@
     <div class="title">
       <p>A Hacked Manifesto</p>
     </div>
-    <p>(after <i>A Hacker Manifesto</i>)</p>
+    <div class="subtitle">
+        <p>(after <i>A Hacker Manifesto</i>)</p>
+    </div>
+    
     <button id="ab">About +</button>
     <div id="about">
-        <p>Some Explainer Text</p>
+      <p>By <a href="https://chelsea.technology">Chelsea Thompto</a> for <a href="https://www.e-flux.com/">e-flux Journal</a>.</p>
+      <br />
+      <p>
+        <i>A Hacked Manifesto</i> is an artwork in the form of an online tool
+        for exploring the Wark's A Hacker Manifesto giving the user/viewer the
+        ability to manipulate, disassemble, reassemble, shift, search and other
+        modify the text. This net art piece engages directly with hacking as a
+        gesture as defined within the source text:
+      </p>
+
+      <p class="quote">
+        “To hack is to abstract. To abstract is to produce the plane upon which
+        different things may enter into relation.” [083]
+      </p>
+
+      <p>
+        This work brings the text itself into a plane upon which new relations
+        can form. The experience of this work will be a web interface where
+        users/viewers will have access to a variety of tools for reordering,
+        searching, selecting, replacing, and other textual gestures. This work
+        is not about using tools that could be understood as generative AI but
+        rather is focused on computation as a tool for textual collage and
+        exploration.
+      </p>
+      <br />
+      <p>
+        Source Code for the work can be found here:
+        <a href="https://github.com/cthompto/a-hacked-manifesto"
+          >https://github.com/cthompto/a-hacked-manifesto</a
+        >
+      </p>
+    </div>
+    <div class="subtitle">
+        <p>Select function below to begin:</p>
     </div>
     <div class="button-holder">
-      <button title="Selects one paragraph from each section of the original text and combines them." id="17p">17 Paragraph Manifesto</button>
-      <button title="Selects one sentence from each section of the original text and combines them." id="17s">17 Paragraph Sentence</button>
-      <button title="Selects one paragraph and shuffles the sentences." id="ps">Paragraph Shuffler</button>
-      <button title="Combines text using Markov chains to produce three new sentences." id="sc">Sentence Combiner</button>
-      <button title="Pulls a random paragraph from the manifesto." id="rp">Random Paragraph</button>
-      <button title="Pulls a random sentence from the manifesto." id="rs">Random Sentence</button>
+      <button
+        title="Selects one paragraph from each section of the original text and combines them."
+        id="17p"
+      >
+        17 Paragraph Manifesto
+      </button>
+      <button
+        title="Selects one sentence from each section of the original text and combines them."
+        id="17s"
+      >
+        17 Paragraph Sentence
+      </button>
+      <button title="Selects one paragraph and shuffles the sentences." id="ps">
+        Paragraph Shuffler
+      </button>
+      <button
+        title="Combines text using Markov chains to produce three new sentences."
+        id="sc"
+      >
+        Sentence Combiner
+      </button>
+      <button title="Pulls a random paragraph from the manifesto." id="rp">
+        Random Paragraph
+      </button>
+      <button title="Pulls a random sentence from the manifesto." id="rs">
+        Random Sentence
+      </button>
       <button>Text Replacer</button>
       <button>Splicer</button>
     </div>
     <div id="results">
-       <p id="result-text"> </p> 
+      <p id="result-text"></p>
     </div>
   </div>
   <script src="./scripts/text.js"></script>
-
 </body>

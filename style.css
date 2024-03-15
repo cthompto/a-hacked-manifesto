@@ -30,28 +30,44 @@
 }
 
 .title {
-    padding-top: 200px;
-    font-size: xxx-large;
+    padding-top: 100px;
+    padding-bottom: 0px;
+    font-size: 50px;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bolder;
     color: black;
 }
 
+.subtitle {
+    font-size: larger;
+    padding-bottom: 10px;
+}
+
 .button-holder {
-    padding-top: 50px;
+    padding-top: 0px;
     max-width: 75%;
     display: block;
-    margin: auto;
+   
 }
 
 #about {
     display: none;
     font-size: large;
+    padding: 50px 200px 50px;
+    font-weight: 400;
+}
+
+.quote {
+    padding: 20px 50px 20px;
 }
 
 #results {
     padding: 50px 200px 50px;
     font-weight: 400;
+}
+
+a {
+    color: black;
 }
 
 button {
