@@ -29,6 +29,7 @@ var currentButton = "";
 
 const underLay = document.getElementById("underlay");
 const underlayContent = document.getElementById("underlayContent");
+underlayContent.ariaHidden = "true";
 
 function underlayText() {
 
@@ -256,7 +257,7 @@ function updateWeight() {
 }
 
 function splicer() {
-    let placeHolder2 = "Merges a user provided text with a section from the manifesto using Markov chains. Add a paragrpah of your own text below, use the slider below to adjust ratio of Wark text to your text. Results will populate below the 'Submit' button."
+    let placeHolder2 = "Merges a user provided text with a section from the manifesto using Markov chains. Add a paragraph of your own text below, use the slider below to adjust ratio of Wark text to your text. Results will populate below the 'Submit' button."
     let placeholderContent = "";
     placeholderContent += placeHolder2;
     results.innerHTML = placeholderContent;
