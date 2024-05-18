@@ -93,12 +93,6 @@
           Random Sentence
         </button>
         <button
-          title="Replaces one word with another in a given section and paragraph."
-          id="tr"
-        >
-          Text Replacer
-        </button>
-        <button
           title="Merges a user provided text with a section from the manifesto using Markov chains."
           id="spli"
         >
@@ -107,8 +101,31 @@
       </div>
       <div id="results">
         <p id="result-text"></p>
+        <form 
+          type="text"
+          id="splice-text"
+          name="splice-text"
+        >
+        <textarea id="text-field"></textarea>
+      </form>
+        <br>
+        <form id="slider1">
+          <label for="weight">Wark Text</label>
+          <input type="range" id="mass" name="mass" min="50" max="500">
+          <label for="weight">Your Text</label>
+        </form>
+        <br>
+        <button
+          title="Submit"
+          id="sub-box"
+        >
+          Submit
+        </button>
+        <div id="results-2"></div>
       </div>
+      <footer>Created by <a href="https://chelsea.technology/">Chelsea Thompto</a></footer>
     </div>
+    
     <script src="./scripts/text.js"></script>
   </body>
 </html>

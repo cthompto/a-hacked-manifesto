@@ -74,6 +74,44 @@ a {
     color: black;
 }
 
+textarea {
+    width: 100%;
+    height: 10px;
+    box-sizing: border-box;
+    resize: none;
+    outline: 0;
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+
+textarea:focus {
+    border: 2px solid darkred;
+}
+
+textarea:hover {
+    border: 2px solid darkred;
+}
+
+#splice-text {
+    visibility: hidden;
+}
+
+#sub-box {
+    visibility: hidden;
+    margin-left: 0px;
+}
+
+#results-2 {
+    visibility: hidden;
+}
+
+#slider1 {
+    visibility: hidden;
+}
+
 button {
     padding-top: 10px;
     padding-bottom: 10px;
@@ -90,4 +128,12 @@ button {
 button:hover {
     color: darkred;
     border: 1px solid darkred;
+}
+
+footer {
+    padding-bottom: 10px;
+    display: block;
+    align-items: right;
+    text-align: right;
+    color: black;
 }

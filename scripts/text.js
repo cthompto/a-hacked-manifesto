@@ -21,6 +21,9 @@ fetch('./text/Wark_McKenzie_A_Hacker_Manifesto.txt')
 );
 
 const results = document.getElementById("result-text");
+const resultsDiv = document.getElementById("results");
+
+var currentButton = "";
 
 // Underlay Loading
 
@@ -86,6 +89,8 @@ function aboutDisplay() {
     } else if (aboutBut.innerHTML == "About -"){
         aboutBut.innerHTML = "About +";
     }
+    currentButton = "about";
+    resultRenderer();
 }
 
 // Random Sentence Button
@@ -99,6 +104,8 @@ function randomSentence() {
     let sentence = manifesto.sections[ranSec].paragraphs[ranPar].sentences[ranLin];
     results.innerText = sentence;
     console.log("'Results' area updated.")
+    currentButton = "Random Sentence";
+    resultRenderer();
 }
 
 // Random Paragraph Button
@@ -116,7 +123,9 @@ function randomParagraph() {
         paragraphContent += sentenceContent;
     }
     results.innerText = paragraphContent;
-    console.log("'Results' area updated.")
+    console.log("'Results' area updated.");
+    currentButton = "Random Paragraph";
+    resultRenderer();
 }
 
 // Paragraph Shuffle Button
@@ -145,7 +154,9 @@ function paragraphShuffler() {
     }
 
     results.innerText = shuffledPar;
-    console.log("'Results' area updated.")
+    console.log("'Results' area updated.");
+    currentButton = "Paragraph Shuffle";
+    resultRenderer();
 }
 
 // Sentence Combiner Button
@@ -157,7 +168,9 @@ function sentenceCombiner() {
     rm.addText(manifesto2);
     sentences = rm.generate(3);
     results.innerText = sentences[0]+"\n"+"\n"+"\n"+sentences[1]+"\n"+"\n"+"\n"+sentences[2];
-    console.log("'Results' area updated.")
+    console.log("'Results' area updated.");
+    currentButton = "Sentence Combiner";
+    resultRenderer();
 }
 
 // 17 Paragraph Manifesto
@@ -186,7 +199,9 @@ function seventeenParagraphs() {
         shortManifesto += lineBreaks;
     }
     results.innerText = shortManifesto;
-    console.log("'Results' area updated.")
+    console.log("'Results' area updated.");
+    currentButton = "17 Paragraph";
+    resultRenderer();
 }
 
 // 17 Sentence Manifesto
@@ -211,33 +226,81 @@ function seventeenSentences() {
         shortManifesto += lineBreaks;
     }
     results.innerText = shortManifesto;
-    console.log("'Results' area updated.")
+    console.log("'Results' area updated.");
+    currentButton = "17 Sentence";
+    resultRenderer();
 }
 
-// Text Replacer Button
-const trBut = document.getElementById("tr")
-trBut.addEventListener("click", textReplacer);
-
-function textReplacer() {
-    let placeHolder1 = "This function will be added in the future. "
-    let placeHolder2 = "Replaces one word with another in a given section and paragraph."
-    let placeholderContent = ""
-    placeholderContent += placeHolder1;
-    placeholderContent += placeHolder2;
-    results.innerHTML = placeholderContent;
-    console.log("'Results' area updated.")
-}
 
 // Splicer Button
-const splicerBut = document.getElementById("spli")
+const splicerBut = document.getElementById("spli");
 splicerBut.addEventListener("click", splicer);
 
+const subBox = document.getElementById("sub-box")
+subBox.addEventListener("click", splicerInt);
+
+const subField = document.getElementById("splice-text");
+
+const results2 = document.getElementById("results-2");
+
+const slider1 = document.getElementById("slider1");
+
+let weight = 300;
+
+const weightSlider = document.getElementById("mass");
+weightSlider.addEventListener("click", updateWeight);
+
+function updateWeight() {
+    weight = document.getElementById('mass').value;
+    console.log(weight);
+}
+
 function splicer() {
-    let placeHolder1 = "This function will be added in the future. "
-    let placeHolder2 = "Merges a user provided text with a section from the manifesto using Markov chains."
-    let placeholderContent = ""
-    placeholderContent += placeHolder1;
+    let placeHolder2 = "Merges a user provided text with a section from the manifesto using Markov chains. Add a paragrpah of your own text below, use the slider below to adjust ratio of Wark text to your text. Results will populate below the 'Submit' button."
+    let placeholderContent = "";
     placeholderContent += placeHolder2;
     results.innerHTML = placeholderContent;
-    console.log("'Results' area updated.")
+    console.log("'Results' area updated.");
+    currentButton = "Splicer";
+    resultRenderer();
+}
+
+// Splicer Internal Button
+
+function splicerInt() {
+    let generatedResult = " ";
+    let userText = document.getElementById('text-field').value;
+    console.log(userText);
+    let rm = RiTa.markov(3);
+    rm.addText(manifesto2);
+    rm.addText(userText, weight);
+    sentences = rm.generate(8);
+
+    for (let i=0; i < sentences.length; i++) {
+        generatedResult += sentences[i];
+        generatedResult += " ";
+    }
+
+    results2.innerHTML = generatedResult;
+
+    console.log(sentences);
+}
+
+const textArea = document.getElementById("text-field");
+
+// logic for showing additional display items
+function resultRenderer() {
+    if (currentButton === "Splicer") {
+        subBox.style.visibility = "visible";
+        subField.style.visibility = "visible";
+        results2.style.visibility = "visible";
+        slider1.style.visibility = "visible";
+        textArea.style.height = "200px";
+    } else {
+        subBox.style.visibility = "hidden";
+        subField.style.visibility = "hidden";
+        results2.style.visibility = "hidden";
+        slider1.style.visibility = "hidden";
+        textArea.style.height = "10px";
+    }
 }
