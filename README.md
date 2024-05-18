@@ -1,5 +1,5 @@
 # A Hacked Manifesto
-A website for hacking *A Hacker Manifesto*
+A website for hacking *A Hacker Manifesto* by McKenzie Wark
 
 By [Chelsea Thompto](https://chelsea.technology)
 For [e-flux](https://www.e-flux.com/)
