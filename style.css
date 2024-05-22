@@ -95,6 +95,31 @@ textarea:hover {
     border: 2px solid darkred;
 }
 
+input[type="range"] {
+    vertical-align: middle;
+    -webkit-appearance: none;
+}
+   
+input[type="range"]:focus {
+    vertical-align: middle;
+    outline: none;
+}
+   
+input[type="range"]::-webkit-slider-runnable-track {
+    vertical-align: middle;
+    background: darkred;
+    height: 5px;
+    border-radius: 2px;
+}
+   
+input[type="range"]::-moz-range-track {
+    vertical-align: middle;
+    background: darkred;
+    height: 5px;
+    border-radius: 2px;
+}
+   
+
 #splice-text {
     visibility: hidden;
 }
