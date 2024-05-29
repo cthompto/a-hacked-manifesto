@@ -172,7 +172,7 @@ footer {
     .title {
         padding-top: 100px;
         padding-bottom: 0px;
-        font-size: x-large;
+        font-size: xx-large;
     }
 
     .subtitle {
@@ -188,5 +188,9 @@ footer {
     #results {
         padding: 20px;
         font-weight: 400;
+    }
+
+    .button-holder {
+        max-width: 90%;
     }
 }
