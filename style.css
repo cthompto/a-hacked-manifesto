@@ -163,3 +163,30 @@ footer {
     text-align: right;
     color: black;
 }
+
+@media (max-width: 1000px) {
+    .overlay {
+        font-size: medium;
+    }
+
+    .title {
+        padding-top: 100px;
+        padding-bottom: 0px;
+        font-size: x-large;
+    }
+
+    .subtitle {
+        font-size: large;
+    }
+
+    #about {
+        font-size: medium;
+        padding: 20px;
+        font-weight: 400;
+    }
+
+    #results {
+        padding: 20px;
+        font-weight: 400;
+    }
+}
