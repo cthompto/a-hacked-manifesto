@@ -1,9 +1,14 @@
+@font-face {
+    font-family: 'Neue Haas Unica';
+    src: url('/Neue-Haas-Unica-Pro/NeueHaasUnicaPro-Regular.ttf') format('truetype');
+}
+
 #underlay {
     position: fixed;
     top: 0;
     left: 0;
     z-index: 1;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Courier New', Arial, Helvetica, sans-serif;
     font-size: larger;
     color: black;
     padding: 30px;
@@ -28,7 +33,7 @@
     display: flex;
     opacity: 1;
     transition: opacity 0.25s ease;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Neue Haas Unica', Arial, Helvetica, sans-serif;
     font-size: larger;
 }
 
@@ -36,7 +41,7 @@
     padding-top: 100px;
     padding-bottom: 0px;
     font-size: 50px;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Neue Haas Unica', Arial, Helvetica, sans-serif;
     font-weight: bolder;
     color: black;
 }
@@ -83,7 +88,7 @@ textarea {
     border: 1px solid black;
     border-radius: 15px;
     padding: 15px;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Neue Haas Unica', Arial, Helvetica, sans-serif;
     font-size: large;
 }
 
@@ -144,7 +149,7 @@ button {
     padding-left: 20px;
     padding-right: 20px;
     margin: 10px;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Neue Haas Unica', Arial, Helvetica, sans-serif;
     font-weight: 800;
     border: 1px solid black;
     border-radius: 15px;
